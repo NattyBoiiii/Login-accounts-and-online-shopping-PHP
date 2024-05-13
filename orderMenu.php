@@ -49,10 +49,10 @@
     </select><br><br>
     
     <label for="quantity">Quantity:</label>
-    <input type="number" id="quantity" name="quantity" min="1" required><br><br>
+    <input required type="number" id="quantity" name="quantity" min="1" required><br><br>
     
     <label for="cash">Cash Amount:</label>
-    <input type="number" id="cash" name="cash" min="1" required><br><br>
+    <input required type="number" id="cash" name="cash" min="1" required><br><br>
     
     <input type="submit" name="submit" value="Place Order">
 </form>
